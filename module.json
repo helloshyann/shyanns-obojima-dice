@@ -1,0 +1,19 @@
+{
+	"id": "shyanns-obojima-dice",
+	"name": "shyanns-obojima-dice",
+	"title": "GM Shyann's Obojima Dice Packs",
+	"description": "Adds custom dice textures and colors to Dice So Nice. Art by Varguy.",
+	"version": "1.0.0",
+	"author": "GM Shyann",
+	"minimumCoreVersion": "13",
+	"compatibleCoreVersion": "13",
+	"scripts": ["scripts/register-dice.js"],
+	"esmodules": [],
+	"styles": [],
+	"packs": [],
+	"dependencies": [
+		{
+			"name": "dice-so-nice"
+		}
+	]
+}
